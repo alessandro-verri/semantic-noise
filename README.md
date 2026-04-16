@@ -73,4 +73,5 @@ What was distinctive becomes interchangeable.
 
 ## Related Concepts
 
-- Principle of Least Effort (AI Interpretation): https://github.com/alessandro-verri/principle-of-least-effort-ai
+Principle of Least Effort (AI Interpretation): https://github.com/alessandro-verri/principle-of-least-effort-ai
+Semantic Territory: https://github.com/alessandro-verri/semantic-territory
