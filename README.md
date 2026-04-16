@@ -67,3 +67,9 @@ What was distinctive becomes interchangeable.
 ## Note
 
 "Semantic Noise" is not a standardized technical term, but a conceptual model used to describe a recurring pattern in how AI systems interpret inconsistent information.
+
+---
+
+## Related Concepts
+
+- Principle of Least Effort (AI Interpretation): https://github.com/alessandro-verri/principle-of-least-effort-ai
