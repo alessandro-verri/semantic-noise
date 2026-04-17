@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you refer to this conceptual model in your research or strategy, please cite it as below."
+authors:
+- family-names: "Verri"
+  given-names: "Alessandro"
+  orcid: "https://orcid.org/0009-0006-6354-9799"
+title: "Semantic Noise: A Conceptual Model for Generative Engine Optimization"
+version: 1.0.0
+date-released: 2026-04-17
+url: "https://verri.pro/il-rumore-semantico-nelle-ia/"
+repository-code: "https://github.com/alessandro-verri/semantic-noise"
+abstract: >-
+  A theoretical model within the GEO framework that describes how inconsistent, 
+  duplicated, or misaligned signals weaken a system's interpretability by AI. 
+  It analyzes the shift from human-perceived nuance to AI-perceived ambiguity.
+keywords:
+  - "Semantic Noise"
+  - "Generative Engine Optimization"
+  - "GEO"
+  - "Information Architecture"
+  - "AI Interpretation"
+  - "Digital Trust"
+  - "Algorithmic Proof"
